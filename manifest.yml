@@ -1,7 +1,7 @@
 ---
 applications:
   - name: coding-clan-react-application
-    host: http://coding-clan-react-application.mybluemix.net
+    host: coding-clan-react-application.mybluemix.net
     path: build/
     memory: 64M
     instances: 1
