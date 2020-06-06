@@ -16,7 +16,7 @@ In combination with other libraries, React helps in doing a wide variety of fron
 
 - Node v8+ for npm
 - Java 8+
-- Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
+- IntelliJ 
 
 ## Available Scripts
 
