@@ -1,0 +1,7 @@
+---
+applications :
+  - name: "react-cloud-deployment"
+    path : "dist/react-cloud-deployment"
+    memory : 256M
+    buildpack :
+      - "https://github.com/cloudfoundry/staticfile-buildpack.git"

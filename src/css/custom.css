@@ -1,0 +1,148 @@
+
+.navCustom{
+    width: 138.55% !important;
+    margin-left: -215px !important;
+    
+}
+
+.navBarCustom{max-height: 40px !important;
+    background-color: #940b36  !important;}
+
+.navNew{
+    width: 138.55% !important;
+    margin-left: -215px !important;
+    margin-top: -25px !important;
+
+}
+
+.subNavCustom{
+    padding-left: 400px!important;
+    background-color: #A20A3A !important;
+}
+
+body{
+    background-color: #fff2e6 !important;
+}
+
+.customCarosel {
+    position: relative !important;
+    left: -210px !important;
+    top: -24px !important;
+}
+.regiscard{
+float: right !important;
+    position: relative !important;
+    top: -540px !important;
+    right: -205px !important;
+    width: 415px !important;
+    border: none !important;
+    height: 515px !important;
+    text-align: center;}
+
+    .customRadio{
+        width: 150px !important;
+    float: left !important;
+    }
+
+    .logindiv{
+        padding: 20px !important;
+    }
+
+   .inputlabel{
+       margin-bottom: 20px !important;
+   }
+
+   .btn{
+       margin: 20px !important;
+   }
+
+   .radio1{
+       margin-left: 110px !important;
+   }
+
+.radio2{
+    margin-left: 200px !important;
+    margin-top: -65px !important;
+}
+
+.loginbtn{
+    margin-left: 160px !important;
+    margin-top: 0px !important;
+}
+
+.alertlogin{
+    margin-left: 50px !important;
+}
+
+.nav-link.active{
+    background-color: #A20A3A !important;
+    color: white !important;
+}
+
+.form-check {
+    padding: 20px !important;
+}
+
+.checkboxdiv{
+display: flex !important;
+  flex-wrap: wrap !important;}
+
+  .helperform{
+    margin-right: 75px !important;
+  }
+
+  .subtitle{
+      font-size: 16px !important;
+  }
+
+  .contactuscard{
+    width: 1100px !important;
+    padding: 20px !important;
+    margin-left: 230px !important;
+    text-align: center !important;
+  }
+
+  .aboutus{
+    margin-left: 30px !important;
+    margin-right: 30px !important;
+  }
+
+  .btn-primary{
+    background-color: darkgray !important;
+    border-color: gray !important;
+  }
+
+  .regishead{
+    margin-top: 20px !important;
+  }
+
+  .html{
+      height: 800px !important;
+  }
+
+  .nav-item{
+    width: 300px;
+    margin-left: 40px;
+    text-align: center;
+  }
+
+  
+
+  .react-bootstrap-table{
+      margin-right: 30px !important;
+  }
+
+  thead{
+      text-align: center !important;
+  }
+
+  .page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color :darkgray !important;
+    border-color: gray !important;}
+
+    .choosefile{
+    margin-top: 35px !important;
+    margin-left: 7px !important;
+    }
