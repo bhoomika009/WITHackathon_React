@@ -1,7 +1,7 @@
 ---
 applications :
-  - name: "react-cloud-deployment"
-    path : "dist/react-cloud-deployment"
+  - name: "coding-clan-react-application"
+    path : "dist/coding-clan-react-application"
     memory : 256M
     buildpack :
       - "https://github.com/cloudfoundry/staticfile-buildpack.git"
