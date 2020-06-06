@@ -1,5 +1,23 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React is a one of the most popular front end view frameworks
+- Components
+- JSX
+- State
+- Props
+
+In combination with other libraries, React helps in doing a wide variety of front end features
+- Forms Handling
+- Routing System
+- HTTP Requests
+
+
+#### Required Tools
+
+- Node v8+ for npm
+- Java 8+
+- Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
+
 ## Available Scripts
 
 In the project directory, we can run:
