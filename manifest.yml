@@ -1,6 +1,7 @@
 ---
 applications:
   - name: coding-clan-react-application
+    host: coding-clan-react-application
     path: build/
     memory: 64M
     instances: 1
